@@ -1,3 +1,4 @@
+![image alt](https://github.com/yashhhYB/Random_Quotes/blob/0f431003b63aa9565d1e5b776f567db0429b5da8/The%20Big%20Plan%20(1).png).
 # Random Quotes Flutter App
 
 This is a simple Flutter application that displays random quotes with an animated background. The app fetches quotes from a predefined list and allows users to view previous quotes.

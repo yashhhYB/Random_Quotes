@@ -34,5 +34,5 @@ This is a simple Flutter application that displays random quotes with an animate
    ```
 
 ## Screenshots
-![Screenshot 1](path_to_screenshot_1)
+![image alt]([path_to_screenshot_1](https://github.com/yashhhYB/Random_Quotes/blob/022be155a34541491db693d5ff162732759eb3f0/best%20random%20quotesss.jpg)).
 ![Screenshot 2](path_to_screenshot_2)
